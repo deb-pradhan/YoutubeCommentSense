@@ -1,0 +1,22 @@
+apikey 1:
+AIzaSyBD515PArdQGQiSNzeYmJ9luxqWYZ5_5BM
+
+apikey 2:
+AIzaSyCP3VXfgNWJWuBIQixu1NFpn9hcS8bpgjc
+
+apikey3:
+AIzaSyD0lNKdev-ymFMXvCOSg8m2a4yEMYB0Q30
+
+paralleldots 1:
+LWJJJpTs3Shws6TSBhmKFTFGEDAuxqu6AqLKGsD5Ybk
+
+paralleldots 2:
+he9hboAZQonfhFY655tyBhDhi6VOSxERfhwJu0yvwt0
+
+######################################################
+
+type= lower polarity video:
+5mVKVeU75ZA
+type = upper polarity video:
+8NnaSdMESrc
+#######################################################
