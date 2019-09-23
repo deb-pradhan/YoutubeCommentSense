@@ -6,3 +6,7 @@ step 1: open the dummy.py file and install all the required modules. After insta
 step 2: Just run the CommentSense.py file. This is the actual file which does all the magic. It would ask you to search for a video title or id and the number of search results you want.(The time taken to process will vary depending on the number of comments on a video and the number of search results)  
 step 3: A comment.csv file will be created automatically in the directory where the commentsense.py file is located. This file can be opened in excel sheet for a good view of video title, video id and the comments.  
 step 4: Running this file will give a detailed reult of the sentiment analysis performed on the comments.  
+
+MIT License  
+
+Copyright (c) 2019 debashish23
